@@ -1,7 +1,4 @@
 I'm file "a.txt"
-<<<<<<< HEAD
 modified by User01
-=======
 modified by User02
 modified by User_MBSW
->>>>>>> e33d7c87b8ecbda3f3fea68fc71e4897a9a13af3
