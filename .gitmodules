@@ -1,0 +1,6 @@
+[submodule "12345"]
+	path = 12345
+	url = https://github.com/abbag/TestGit02.git
+[submodule "67890"]
+	path = 67890
+	url = https://github.com/abbag/TestGit02.git
